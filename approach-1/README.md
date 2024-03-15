@@ -1,0 +1,1 @@
+The Approach - 1 tries to create a single state and the iframe tries to access the state form there. In this case state remains the single source of truth.
